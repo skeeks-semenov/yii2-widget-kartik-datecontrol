@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-datecontrol",
+    "name": "skeeks/yii2-widget-kartik-datecontrol",
     "description": "Date control module allowing separation of formats for View and Model for Yii Framework 2.0",
     "keywords": ["yii", "yii2", "extension", "date", "control", "format"],
     "homepage": "https://github.com/kartik-v/yii2-datecontrol",
